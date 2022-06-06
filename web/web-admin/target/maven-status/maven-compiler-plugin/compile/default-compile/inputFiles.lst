@@ -1,0 +1,13 @@
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\HouseUserController.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\IndexController.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\config\UserDetailsServiceImpl.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\RoleController.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\config\AtguiguAccessDeniedHandler.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\PermissionController.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\config\WebSecurityConfig.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\HouseBrokerController.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\HouseImageController.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\CommunityController.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\DictController.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\HouseController.java
+G:\code\shf-parent\web\web-admin\src\main\java\com\atguigu\controller\AdminController.java
